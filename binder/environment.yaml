@@ -1,0 +1,19 @@
+name: LLC4320
+channels:
+  - conda-forge
+  - intake
+  - default
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - pandas
+  - xarray
+  - matplotlib
+  - dask
+  - distributed
+  - ipykernel
+  - xmitgcm
+  - ujson
+  - s3fs
+  - cchardet
