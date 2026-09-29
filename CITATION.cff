@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jones"
+  given-names: "C Spencer"
+  orcid: "https://orcid.org/0000-0003-1094-0306"
+- family-names: "Hill"
+  given-names: "Chris"
+  orcid: "https://orcid.org/0000-0002-6237-1451"
+- family-names: "Haine"
+  given-names: "Thomas"
+  orcid: "https://orcid.org/0000-0001-8231-2419"
+title: "OSN_LLC4320"
+version: 1.0.0
+doi: 10.5281/zenodo.11373788
+date-released: 2024-05-28
+url: "https://github.com/cspencerjones/OSN_LLC4320"
